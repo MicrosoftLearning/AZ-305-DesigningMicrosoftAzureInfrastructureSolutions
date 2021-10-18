@@ -1,8 +1,9 @@
-# INF99X: Sample Course
+# AZ-305: Designing Microsoft Azure Infrastructure Solutions
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
+**Under development**
+
+- **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
 
 ## What are we doing?
 
