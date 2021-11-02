@@ -2,7 +2,7 @@
 
 **Under development**
 
-- **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
+- **[Link to case studies (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
 ## What are we doing?
