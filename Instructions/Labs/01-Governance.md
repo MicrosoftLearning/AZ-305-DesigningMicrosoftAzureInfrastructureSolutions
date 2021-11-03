@@ -1,7 +1,7 @@
 ---
-Lab:
-    title: 'Case Study: Governance'
-    module: 'Module 1: Design for Governance'
+lab:
+    title: 'Lab: Deploying Azure Resource Manager templates'
+    module: 'Module 1: Exploring Azure Resource Manager'
 ---
 
 ## Design a Governance Solution Case Study 
