@@ -1,5 +1,5 @@
 ---
-Case study:
+Lab:
     title: 'Case Study: Governance'
     module: 'Module 1: Design for Governance'
 ---
