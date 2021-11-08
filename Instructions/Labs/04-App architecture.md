@@ -16,7 +16,7 @@ Tailwind Traders is looking to update their website to include customer supplied
 
  
 
-![App architecture](app architecture.png)
+![App architecture](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/App%20architecture.png?raw=true)
 
  
 
