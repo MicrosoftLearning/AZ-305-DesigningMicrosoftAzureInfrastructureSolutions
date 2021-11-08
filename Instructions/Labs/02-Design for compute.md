@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Design a compute solution'
-    module: 'Module 2: Design a compute solutions'
+    module: 'Module 2: Design a compute solution'
 ---
 
 # Design a compute solution
@@ -11,8 +11,6 @@ Estimated time: 90 minutes
 ## Requirements
 
 Tailwind Traders would like to migrate their product catalog application to the cloud. This application has a traditional 3-tier configuration using SQL Server as the data store. The IT team hopes you can help modernize the application. They have provided this diagram and several areas that could be improved. 
-
- 
 
 ![compute architecture](../media/compute.png)
 
