@@ -1,6 +1,11 @@
-# Design Application Architecture Case Study
+---
+lab:
+    title: 'Design an app architecture solution'
+    module: 'Module 1: Design an app architecture solution'
+---
+# Design an app architecture solution
 
-Estimated time: 60 minutes
+Estimated time: 90 minutes
 
 ## Requirements
 
