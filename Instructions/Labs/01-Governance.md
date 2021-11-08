@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Design a governance solution'
-    module: 'Module 1: Design for governance'
+    module: 'Module 1: Design a governance solution'
 ---
 
 # Design a governance solution
