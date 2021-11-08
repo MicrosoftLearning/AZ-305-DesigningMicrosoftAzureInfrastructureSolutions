@@ -14,7 +14,7 @@ Tailwind Traders would like to migrate their product catalog application to the 
 
  
 
-![compute architecture](../media/Case_Studies_-_All_in_One_image2.png)
+![compute architecture](../media/compute.png)
 
 * The frontend application is a .NET core-based web app. During peak periods 1750 customers visit the website each hour. 
 
