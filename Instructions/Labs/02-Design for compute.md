@@ -4,7 +4,7 @@ lab:
     module: 'Module 2: Design a compute solutions'
 ---
 
-# Design Compute Case Study
+# Design a compute solution
 
 Estimated time: 90 minutes
 
