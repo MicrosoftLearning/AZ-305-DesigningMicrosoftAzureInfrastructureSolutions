@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Design an app architecture solution'
-    module: 'Module 1: Design an app architecture solution'
+    module: 'Module 6: Design an app architecture solution'
 ---
 # Design an app architecture solution
 
