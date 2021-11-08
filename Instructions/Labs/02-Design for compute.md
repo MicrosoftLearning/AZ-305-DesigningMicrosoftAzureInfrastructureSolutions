@@ -12,7 +12,7 @@ Estimated time: 90 minutes
 
 Tailwind Traders would like to migrate their product catalog application to the cloud. This application has a traditional 3-tier configuration using SQL Server as the data store. The IT team hopes you can help modernize the application. They have provided this diagram and several areas that could be improved. 
 
-![compute architecture](../media/compute.png)
+![compute architecture](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/compute.png)
 
 * The frontend application is a .NET core-based web app. During peak periods 1750 customers visit the website each hour. 
 
