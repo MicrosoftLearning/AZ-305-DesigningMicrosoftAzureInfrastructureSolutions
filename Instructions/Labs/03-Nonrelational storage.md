@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Design a non-relational storage solution'
-    module: 'Module 1: Design a non-relational storage solution'
+    module: 'Module 3: Design a non-relational storage solution'
 ---
 # Design Non-relational Storage Case Study
 
