@@ -4,22 +4,31 @@ lab:
     module: 'Module 1: Design for governance'
 ---
 
-## Design a Governance Solution Case Study 
-Estimated time: 90 minutes 
+# Design a Governance Solution Case Study
+
+Estimated time: 90 minutes
 
 ## Requirements
+
 Tailwind Traders is planning on making some significant changes to their governance solution. They have asked for your assistance with recommendations and questions. Here are the specific requirements.
 
-1. Phasellus urna lacus, luctus at suscipit vitae, maximus ac nisl. 
+* Cost and accounting. Tailwind Traders has two main business units that handle Apparel and Sporting Goods. Each of the business units consist of three departments: Product Development, Marketing, and Sales. Each business unit and subunit will be responsible for tracking their Azure spend. At the same time, the Enterprise IT team will be responsible for providing company-wide Azure cost reporting.
 
-    - Morbi in tortor finibus, tempus dolor a, cursus lorem. 
+* New development project. The company has a new development project for customer feedback. The CFO wants to ensure all costs associated with the project are captured. For the testing phase, workloads should be hosted on lower cost virtual machines. The virtual machines should be named to indicate they are part of the project. Any instances of non-compliance with resource consistency rules should be automatically identified.
 
-    - Maecenas id risus pharetra, viverra elit quis, lacinia odio. 
+## Tasks
 
-    - Etiam rutrum pretium enim. 
+1. Cost and accounting. 
 
-1. Curabitur in pretium urna, nec ullamcorper diam. 
+* What are different ways Tailwind Traders could organize their subscriptions and management groups. Which would be the best to meet their requirements? 
 
-#### Review
+* Design two alternative hierarchies and explain your decision-making process.
 
-Maecenas fringilla ac purus non tincidunt. Aenean pellentesque velit id suscipit tempus. Cras at ullamcorper odio.
+2. New development project. 
+
+* What are the different ways Tailwind Traders could track costs for the new development project?
+
+* How are you ensuring compliance with the requirements for virtual machine sizing and naming? 
+
+* Propose at least two ways of meeting the requirements. Explain your final decision.   
+
