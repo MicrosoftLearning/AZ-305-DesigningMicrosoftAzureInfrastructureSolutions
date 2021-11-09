@@ -1,5 +1,5 @@
 ---
-lab:
+casestudy:
     title: 'Optional Case Study: Fabrikam Residences'
     module: 'Optional Case Study: Fabrikam Residences'
 ---
