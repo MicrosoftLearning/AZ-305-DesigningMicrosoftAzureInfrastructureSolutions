@@ -23,7 +23,7 @@ The company has seen tremendous growth over the past 2 years. The company is est
 
 The Fabrikam Headquarters operates a small datacenter in a single location. The datacenter hosts the company **Project Management (PM) software**.
 
-![Project managment software architecture](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/fabrikam.png)
+![Project managment software architecture](media/fabrikam.png)
 
 - The PM software uses a third-party Windows application. The application runs on a 2-node Network Load Balancing (NLB) cluster with a single Microsoft SQL Server backend.  
 
@@ -35,7 +35,7 @@ The Fabrikam Headquarters operates a small datacenter in a single location. The 
 
 The **Home Technology software** is currently provided and hosted by third parties and involves at least three different websites the customer must visit.  It is proposed the software be replaced with an in-house developed and unified solution.
 
-![Diagram of HVAC, Security, and Automation app](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/software.png)
+![Diagram of HVAC, Security, and Automation app](media/software.png)
 
 ## Requirements 
 
