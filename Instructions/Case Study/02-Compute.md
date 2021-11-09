@@ -1,5 +1,5 @@
 ---
-lab:
+Case Study:
     title: 'Design a compute solution'
     module: 'Module 2: Design a compute solution'
 ---
