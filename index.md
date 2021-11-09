@@ -10,9 +10,9 @@ Hyperlinks to each case study is listed below.
 
 ## Case Studies
 
-{% assign Case Study = site.pages | where_exp:"page", "page.url contains '/Instructions/Case Study'" %}
+{% assign CaseStudy = site.pages | where_exp:"page", "page.url contains '/Instructions/Case Study'" %}
 | Module | Case Study |
 | --- | --- | 
-{% for activity in Case Study %}| {{ activity.Case Study.module }} | [{{ activity.Case Study.title }}{% if activity.Case Study.type %} - {{ activity.Case Study.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in CaseStudy %}| {{ activity.CaseStudy.module }} | [{{ activity.CaseStudy.title }}{% if activity.CaseStudy.type %} - {{ activity.CaseStudy.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
