@@ -9,8 +9,7 @@ Estimated time: 90 minutes
 
 ## Requirements
 
-This case study requires you to have completed the following modules and case studies:  Compute, relational data, non-relational data, authentication, application architecture
-
+**This case study requires you to have completed the following modules and case studies:  Compute, relational data, non-relational data, authentication, application architecture**
 
 You have taken a new position with Fabrikam Residences, which is very successful and is experiencing rapid growth. Fabrikam Residences is a building contractor for new homes and major home renovations and have become successful by providing quality buildings and offering newer integrated home technologies than their competitors.  
 
