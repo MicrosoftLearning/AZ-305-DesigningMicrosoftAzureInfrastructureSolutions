@@ -25,7 +25,7 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 
 - The Tailwind Traders Information Security and Risk teams require all communication between Azure VMs and PaaS services that are part of the same application must travel via Azure backbone, rather than via a public endpoint of the PaaS services. 
 
-## Tasks 
+## Tasks - Product catalog enterprise application
 
 1. Design a two-tier network solution for the Product Catalog. Where appropriate your design could include Azure Front Door, WAF, Azure Firewall, and Azure Load Balancer. Your networking components should be grouped into virtual networks and network security groups should be considered. Be prepared to explain why you chose each component of the design. 
 
@@ -44,7 +44,7 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 -	As per requirements defined by the Tailwind Traders Information Security and Risk teams, all communication between Azure VMs in different tiers that are part of the same application must allow only the ports required to run and maintain the application. However, due to IP address space limitations, it might not be possible to allocate dedicated subnets to each tier. Enterprise IT group needs to identify the optimal way to configure source and destination for traffic filtering that would not require directly referencing IP addresses or IP address ranges.
 
 
-## Tasks
+## Tasks - BI enterprise application 
 
 1. Design a 3-tier network solution for the BI Application. Your design could include Azure ExpressRoute, VPN Gateways, Application Gateways, Azure Firewall, and Azure Load Balancers. Your networking components should be grouped into virtual networks and network security groups should be considered. Be prepared to explain why you chose each component of the solution. 
 
