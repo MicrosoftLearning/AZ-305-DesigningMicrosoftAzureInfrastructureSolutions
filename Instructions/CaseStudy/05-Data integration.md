@@ -1,5 +1,5 @@
 ---
-lab:
+casestudy:
     title: 'No formal case study'
     module: 'Module 5: Design data intergation solutions'
 ---
