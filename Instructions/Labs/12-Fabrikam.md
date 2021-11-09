@@ -61,4 +61,8 @@ The **Home Technology software** is currently provided and hosted by third parti
 
 - Implement security controls and provide weekly reports outlining how the company matches up against industry standard best practices.
 
+## Tasks 
 
+1. Design a solution for the Project Management software. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
+
+2. Design an architecture for the New Home Technology Solution. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
