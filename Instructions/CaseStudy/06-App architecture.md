@@ -1,5 +1,5 @@
 ---
-lab:
+casestudy:
     title: 'Design an app architecture solution'
     module: 'Module 6: Design an app architecture solution'
 ---
