@@ -3,7 +3,7 @@ lab:
     title: 'Design a network infrastructure solution'
     module: 'Module 9: Design a network infrastructure solution'
 ---
-# Design a network infrastructure solution Casestudy  
+# Design a network infrastructure solution  
 
 Estimated time: 90 minutes
 
