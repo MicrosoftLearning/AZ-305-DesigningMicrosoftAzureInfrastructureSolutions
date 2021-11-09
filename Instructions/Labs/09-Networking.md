@@ -15,7 +15,7 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 
 ### Design - Product catalog enterprise application
 
-![Product catalong architecture](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/catalog.png)
+![Product catalog architecture](media/catalog.png)
 
 - An internet-facing, Windows-based two-tier .NET Core-based web app providing access to the product catalog, hosted in a SQL Server Always On Availability Group database. This application is categorized as mission-critical, with availability SLA of 99.99%, 10-minute RPO and 2-hour RTO. 
 
@@ -31,7 +31,7 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 
 ## Design - BI enterprise application 
 
-![BI enterprise application architecture](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/Labs/media/compute.png)
+![BI enterprise application architecture](media/compute.png)
 
 -	An internal, Windows-based, three-tier business intelligence (BI) enterprise application with the front-end tier running IIS web servers, the middle tier hosting .NET Framework-based business logic, and the back-end tier implemented as a SQL Server Always On Availability Group database. 
 
