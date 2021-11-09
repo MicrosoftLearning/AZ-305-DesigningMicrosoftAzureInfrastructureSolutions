@@ -1,5 +1,5 @@
 ---
-lab:
+casestudy:
     title: 'Design a non-relational storage solution'
     module: 'Module 3: Design a non-relational storage solution'
 ---
