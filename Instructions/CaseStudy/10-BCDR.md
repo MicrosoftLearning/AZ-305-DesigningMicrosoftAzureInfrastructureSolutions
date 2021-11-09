@@ -1,5 +1,5 @@
 ---
-lab:
+casestudy:
     title: 'No formal case study'
     module: 'Module 10: Design a business continuity solution'
 ---
