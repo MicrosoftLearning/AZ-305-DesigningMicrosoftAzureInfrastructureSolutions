@@ -42,7 +42,9 @@ The **Home Technology software** is currently provided and hosted by third parti
 **Project Management software**
 
 - Migrate as many of the systems to a public cloud provider as possible.
+
 - Replace the existing scripts to leverage a system more secure than FTP, as security concerns have arisen. Also, you have been asked to make sure that change files are processed as soon as they are uploaded.
+
 - Increase the resilience of the project management database. While performance is not an issue, the company would like to avoid losing access to the database in case of a single hardware failure.
 
 **New Home Technology Solution**
