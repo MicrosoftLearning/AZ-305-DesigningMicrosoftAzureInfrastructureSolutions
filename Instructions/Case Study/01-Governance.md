@@ -1,5 +1,5 @@
 ---
-lab:
+Case Study:
     title: 'Design a governance solution'
     module: 'Module 1: Design a governance solution'
 ---
