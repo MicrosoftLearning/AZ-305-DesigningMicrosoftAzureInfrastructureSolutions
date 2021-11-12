@@ -29,5 +29,5 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 
 1. Design a two-tier network solution for the Product Catalog. Where appropriate your design could include Azure Front Door, WAF, Azure Firewall, and Azure Load Balancer. Your networking components should be grouped into virtual networks and network security groups should be considered. Be prepared to explain why you chose each component of the design. 
 
-
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
 
