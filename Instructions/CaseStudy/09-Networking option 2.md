@@ -38,4 +38,4 @@ To put together the initial networking design, the Tailwind Traders Enterprise I
 
 4. Based on the modernizing of the SQL backend how do you plan to enable pragmatic access to the data base so that the front end has no hard coded secrets in its code base?
 
-
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
