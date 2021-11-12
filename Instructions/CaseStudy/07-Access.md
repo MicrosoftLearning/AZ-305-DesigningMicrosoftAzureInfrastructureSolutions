@@ -30,7 +30,7 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 ## Tasks
 
-1.  New user accounts. 
+**New user accounts**
 
   * Diagram the process for bringing in the acquired user accounts.
 
@@ -40,7 +40,7 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
 * Provide at least three recommendations for improving Tailwind Traders user identity solutions. Rank the recommendations in order of importance. Include your reasons for making these suggestions. 
 
-2.  New application access 
+**New application access**
 
   * Provide an access solution for the business development application.
 
