@@ -35,4 +35,6 @@ Design an architecture for the customer images to be added to the company websit
 
 * Once images are approved and the catalog database is updated, how will the customer be notified? 
 
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
+
  
