@@ -30,5 +30,7 @@ Tailwind Traders is planning on making some significant changes to their governa
 
     * How are you ensuring compliance with the requirements for virtual machine sizing and naming? 
 
-    * Propose at least two ways of meeting the requirements. Explain your final decision.   
+    * Propose at least two ways of meeting the requirements. Explain your final decision. 
+
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
 
