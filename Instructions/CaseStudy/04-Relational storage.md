@@ -22,5 +22,6 @@ Primary concerns of Tailwind Traders:
 
 ## Tasks
 
-1.	Design the database solution. Your design should include authorization, authentication, pricing, performance, and high availability. Diagram what you decide and explain your solution. 
+1.	Design the database solution. Your design should include authorization, authentication, pricing, performance, and high availability. 
+2.	Diagram what you decide and explain your solution. 
 
