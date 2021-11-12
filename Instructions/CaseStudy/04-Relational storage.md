@@ -25,3 +25,4 @@ Primary concerns of Tailwind Traders:
 1.	Design the database solution. Your design should include authorization, authentication, pricing, performance, and high availability. 
 2.	Diagram what you decide and explain your solution. 
 
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
