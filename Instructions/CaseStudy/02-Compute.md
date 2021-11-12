@@ -29,3 +29,5 @@ Tailwind Traders would like to migrate their product catalog application to the 
 * **Front-end tier**. Which Azure compute service would you recommend for the front-end tier? Explain why you decided on your solution. 
 
 * **Middle tier**. Which Azure compute service would you recommend for the middle tier? Explain why you decided on your solution. 
+
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
