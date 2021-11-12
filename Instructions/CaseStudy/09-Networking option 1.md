@@ -5,7 +5,7 @@ casestudy:
 ---
 # Design a network infrastructure solution  
 
-Estimated time: 90 minutes
+Estimated time: 60 minutes
 
 ## Requirements
 
