@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Design a network solution -BI enterprise application'
-    module: 'Module 9: Design a network infrastructure solution'
+    module: 'Module 9: Design a network infrastructure solution (option 2)'
 ---
 # Design a network infrastructure solution  
 
