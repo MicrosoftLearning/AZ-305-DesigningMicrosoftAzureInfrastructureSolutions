@@ -45,3 +45,5 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
   * Provide an access solution for the business development application.
 
   * Provide an access solution for the on-premises resources.
+
+How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
