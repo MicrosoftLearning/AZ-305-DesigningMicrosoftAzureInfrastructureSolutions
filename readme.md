@@ -1,7 +1,5 @@
 # AZ-305: Designing Microsoft Azure Infrastructure Solutions
 
-**Under development - course releasing 19 November 2021**
-
 - **[Link to case studies (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
