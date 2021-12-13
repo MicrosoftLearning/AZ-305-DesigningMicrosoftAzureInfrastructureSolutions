@@ -1,7 +1,7 @@
 ---
 casestudy:
-    title: 'Governance solutions'
-    module: 'Design a governance solution'
+    title: 'Design a governance solution'
+    module: 'Governance solutions'
 ---
 
 # Design a governance solution
