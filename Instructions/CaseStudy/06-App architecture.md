@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Design an app architecture solution'
-    module: 'Module 6: App architecture solutions'
+    module: 'App architecture solutions'
 ---
 # Design an app architecture solution
 
