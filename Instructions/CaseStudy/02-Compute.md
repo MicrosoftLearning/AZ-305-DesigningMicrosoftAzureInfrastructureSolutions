@@ -1,6 +1,6 @@
 ---
 casestudy:
-    title: 'Design a compute solution'
+    title: 'Compute solutions'
     module: 'Design a compute solution'
 ---
 
