@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Design authentication and authorization solutions'
-    module: 'Module 7: Design authentication and authorization solutions'
+    module: 'Module 7: Authentication and authorization solutions'
 ---
 
 
