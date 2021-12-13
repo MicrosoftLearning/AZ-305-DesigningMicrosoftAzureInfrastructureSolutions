@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Design a relational storage solution'
-    module: 'Module 4: Design a relational storage solution'
+    module: 'Design a relational storage solution'
 ---
 # Design Relational Storage Case Study
 
