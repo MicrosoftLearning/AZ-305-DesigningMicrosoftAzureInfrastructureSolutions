@@ -1,7 +1,7 @@
 ---
 casestudy:
     title: 'Design a non-relational storage solution'
-    module: 'Design a non-relational storage solution'
+    module: 'Non-relational storage solution'
 ---
 # Design Non-relational Storage Case Study
 
