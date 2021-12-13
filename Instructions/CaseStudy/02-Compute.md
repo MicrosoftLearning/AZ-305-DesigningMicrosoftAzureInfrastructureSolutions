@@ -1,7 +1,7 @@
 ---
 casestudy:
-    title: 'Compute solutions'
-    module: 'Design a compute solution'
+    title: 'Design a compute solution'
+    module: 'Compute solutions'
 ---
 
 # Design a compute solution
