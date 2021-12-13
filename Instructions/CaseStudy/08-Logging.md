@@ -1,6 +1,6 @@
 ---
 casestudy:
     title: 'No formal case study'
-    module: 'Module 8: Design a logging and monitoring solution'
+    module: 'Logging and monitoring solutions'
 ---
 This module does not have a formal case study. 
