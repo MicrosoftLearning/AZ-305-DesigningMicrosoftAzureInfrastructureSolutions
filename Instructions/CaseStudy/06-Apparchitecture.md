@@ -21,7 +21,7 @@ Tailwind Traders is looking to update their website to include customer supplied
 
  
 
-![App architecture](../media/Apparchitecture.png)
+![App architecture](media/Apparchitecture.png)
 
  
 
