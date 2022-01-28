@@ -3,6 +3,11 @@
 - **[Link to case studies (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
+## Course update - 28 January 2022
+
+- The Fabrikam Residences case study is now the Module 8 case study. This ensures the end of Day 3 has a case study. This case study reviews and covers all the content up to this point in the course. 
+- The Network Option 1 case study was removed. There is now only one Network case study. 
+
 ## What are we doing?
 
 To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the case studies on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
