@@ -1,8 +1,4 @@
----
-casestudy:
-    title: 'Design a network solution - Product catalog enterprise application'
-    module: 'Network infrastructure solutions (option 1)'
----
+
 # Design a network infrastructure solution  
 
 Estimated time: 60 minutes
