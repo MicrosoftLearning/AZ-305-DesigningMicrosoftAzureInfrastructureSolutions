@@ -6,7 +6,7 @@
 ## Course update - 28 January 2022
 
 - The Fabrikam Residences case study is now the Module 8 case study. This ensures the end of Day 3 has a case study. This case study reviews and covers all the content up to this point in the course. 
-- The Network Option 1 case study was removed. There is now only one Network case study. 
+- The Network Option 1 case study was removed. There is now only one Network case study - BI Enterprise Application. 
 
 ## What are we doing?
 
