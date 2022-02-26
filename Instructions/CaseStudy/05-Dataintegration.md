@@ -1,6 +1,6 @@
 ---
 casestudy:
     title: 'No formal case study'
-    module: 'Data intergation solutions'
+    module: 'Data integration solutions'
 ---
 This module does not have a formal case study. 
