@@ -5,8 +5,6 @@ casestudy:
 ---
 Case Study: Fabrikam Residences
 
-Estimated time: 90 minutes
-
 ## Requirements
 
 **This case study requires you to have completed the following modules and case studies:  Compute, relational data, non-relational data, authentication, application architecture**
