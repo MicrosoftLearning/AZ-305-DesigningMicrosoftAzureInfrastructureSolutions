@@ -7,8 +7,6 @@ casestudy:
 
 # Design authentication and authorization solutions
 
-Estimated time: 60 minutes
-
 ## Requirements
 
 Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Azure Active Directory for user and groups accounts. Here are two specific initiatives the IT department would like you to help with. 
