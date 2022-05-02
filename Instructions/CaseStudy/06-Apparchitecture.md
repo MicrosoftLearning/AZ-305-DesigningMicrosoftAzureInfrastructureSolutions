@@ -5,8 +5,6 @@ casestudy:
 ---
 # Design an app architecture solution
 
-Estimated time: 90 minutes
-
 ## Requirements
 
 Tailwind Traders is looking to update their website to include customer supplied product images in addition to the already existing photos provided by marketing. They believe that having more photos of products in use will give potential customers a better feel for how past customers loved their products after purchasing them. They do have some requirements as outlined below:
