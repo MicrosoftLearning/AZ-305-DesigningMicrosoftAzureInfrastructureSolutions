@@ -6,8 +6,6 @@ casestudy:
 
 # Design a governance solution
 
-Estimated time: 90 minutes
-
 ## Requirements
 
 Tailwind Traders is planning on making some significant changes to their governance solution. They have asked for your assistance with recommendations and questions. Here are the specific requirements.
