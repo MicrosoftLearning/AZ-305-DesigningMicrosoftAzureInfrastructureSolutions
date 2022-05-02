@@ -5,8 +5,6 @@ casestudy:
 ---
 # Design Relational Storage Case Study
 
-Estimated time: 90 minutes
-
 ## Requirements
 
 Tailwind Traders is looking to move their existing public website database into Azure, as the website front end is being moved there as well.  The website front end will initially only be deployed in 2 regions for redundancy.  However, it is expected that as traffic increases the website will be replicated to other regions around the world. The database, which you are being asked to migrate, holds the product catalog, and all online orders.  Currently the database runs on a single Microsoft SQL Server Always On availability group on premises.
