@@ -15,7 +15,7 @@ Tailwind Traders is doing very well and is expanding their workforce. They have 
 
   * The online retailer acquisition will add 75 employees to Tailwind Traders. All the new users have on-premises Active Directory Domain Services accounts in the retailer’s existing domain.
 
-  * The new marketing partner will initially have 15 employees who will need corporate access. These employees already have Azure AD accounts in the partner’s AAD tenant. 
+  * The new marketing partner will initially have 15 employees who will need corporate access. These employees already have Microsoft Entra identities in the partner’s Microsoft Entra tenant.  
 
   * The new employees are located at various geographic locations and will need account privileges for their new job roles. Some changes to existing employee roles are expected. 
 
