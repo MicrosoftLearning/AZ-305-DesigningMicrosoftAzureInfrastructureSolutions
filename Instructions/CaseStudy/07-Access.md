@@ -9,11 +9,11 @@ casestudy:
 
 ## Requirements
 
-Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Azure Active Directory for user and groups accounts. Here are two specific initiatives the IT department would like you to help with. 
+Tailwind Traders is doing very well and is expanding their workforce. They have successfully acquired an online retailer in the sports apparel space. The company has also located a partner to outsource marketing literature. Tailwind Traders is using Entra ID for user and groups accounts. Here are two specific initiatives the IT department would like you to help with. 
 
 **New user accounts**
 
-  * The online retailer acquisition will add 75 employees to Tailwind Traders. All the new users have on-premises Active Directory Domain Services accounts in the retailer’s existing domain.
+  * The online retailer acquisition will add 75 employees to Tailwind Traders. All the new users have on-premises accounts in the retailer’s existing domain.
 
   * The new marketing partner will initially have 15 employees who will need corporate access. These employees already have Microsoft Entra identities in the partner’s Microsoft Entra tenant.  
 
